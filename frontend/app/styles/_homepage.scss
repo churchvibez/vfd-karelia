@@ -1,0 +1,23 @@
+.home-hero {
+    margin-bottom: 25px;
+  }
+  
+  .quick-links {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .quick-link {
+    flex: 1;
+    border: 1px solid $border-color;
+    padding: 15px;
+    background: white;
+  }
+  
+  .notice {
+    margin-top: 25px;
+    padding: 15px;
+    border: 1px solid $border-color;
+    background: #fafafa;
+  }
